@@ -16,10 +16,13 @@ v) Function component short cut "rafc" and Class Component short cut "rcc"
 
 
 
-For Core Reaact command
+For Core React command
 
+    => Create a html, css and js files
     => npm init
       above one creates package.json. It is a configuration of NPM
     => npm install -D parcel
-    => npm install react
     => npm install react-dom
+    => npx parcel index.html
+    => npm install react
+    => npx parcel build index.html
